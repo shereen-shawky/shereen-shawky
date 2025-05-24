@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Frontend+Developer;UI/UX+Designer;Passionate+About+Web+Design&center=true&width=500&height=50&color=F06292">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Frontend+Developer;UI/UX+Designer;&center=true&width=500&height=50&color=F06292">
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shereenshawky&theme=algolia" alt="shereenshawky" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shereen-shawky&theme=algolia" alt="shereenshawky" />
 </p>
 
 ## 🛠️ My Skills
@@ -81,7 +81,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="Shereen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shereenshawky&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+  <img alt="Shereen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shereen-shawky&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 </p>
 
 <br/>
