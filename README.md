@@ -18,11 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=shereenshawky&label=Profile%20views&color=0e75b6&style=plastic" alt="shereenshawky" />
 </p>
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shereen-shawky&theme=algolia" alt="shereenshawky" />
-</p>
-
 ## 🛠️ My Skills
 
 ### 👉 Front-End Development
@@ -74,14 +69,6 @@
   <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FCC624?style=flat&logo=leetcode&logoColor=black">
   &emsp;
   <img alt="OOP" src="https://img.shields.io/badge/OOP-007ACC?style=flat&logo=abstract&logoColor=white">
-</p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img alt="Shereen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shereen-shawky&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 </p>
 
 <br/>
